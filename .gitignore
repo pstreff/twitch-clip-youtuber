@@ -1,0 +1,8 @@
+.idea
+__pycache__/
+venv
+
+clips
+
+yt_client_secret.json
+token_youtube_v3.pickle
